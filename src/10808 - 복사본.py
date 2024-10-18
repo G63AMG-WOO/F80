@@ -12,7 +12,7 @@ for i in range(n):
         elif target[i - 1] == ')':
             stack.pop()
             sum += 1
-print(sum)
+print(sum ,  10)
 # while(True):
 #         target = input()
 #         if target =='.':
