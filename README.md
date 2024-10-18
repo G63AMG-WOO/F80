@@ -7,4 +7,4 @@
 링크: [깃허브](https://github.com/G63AMG-WOO/F80)
 ![관절 보호대 이미지](https://thumbnail9.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/980a/149a281f7862d39e60395cf2c0b008cfee5ffb5b77426363caac0b20c2ec.jpg)
 
-hello world
+*soongsil university*
