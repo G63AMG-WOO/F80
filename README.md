@@ -6,7 +6,7 @@
 
 링크: [깃허브](https://github.com/G63AMG-WOO/F80)
 
-![헬스](https://www.medicalworldnews.co.kr/data/cheditor4/2306/990901045_MsdpRJo2_2-39.jpg](https://www.popsci.co.kr/news/photo/202408/21780_12023_2116.jpg)
+![헬스](https://www.medicalworldnews.co.kr/data/cheditor4/2306/990901045_MsdpRJo2_2-39.jpg)
 
 
 
